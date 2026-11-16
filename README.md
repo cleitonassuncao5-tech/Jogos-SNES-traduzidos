@@ -1,2 +1,2 @@
-# Jogos-SNES-traduzidos
-Aqui eu compartilho as Roms de SNES que traduzir com IA
+# Jogos Traduzidos
+Aqui eu compartilho as Roms deque traduzir com IA
